@@ -18,4 +18,4 @@
 # hello.py
 print("Hello World!")
 ```
-![hello_world](img/result_hello.png)
+![hello.py](img/hello.png)
