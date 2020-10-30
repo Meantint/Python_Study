@@ -4,7 +4,7 @@
 
 <hr>
 
-### 설치
+## 설치
 
 - [https://www.python.org/downloads/](https://www.python.org/downloads/) 들어가서 최신버전을 다운로드 받으면 된다.
 
@@ -14,8 +14,16 @@
 
 <hr>
 
-### 기본 예제
+## 기본 예제
 
 - 가장 기본적인 `Hello World!`를 출력해보도록 하자.
 
-![hello_world](img/hello_world.png)
+
+### hello.py
+
+```Python3
+print("Hello World!")
+```
+![hello_world](img/result_hello.png)
+
+<hr>
